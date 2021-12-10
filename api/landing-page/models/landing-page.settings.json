@@ -46,7 +46,7 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-modules",
-      "required": true
+      "required": false
     },
     "sectionAgenda": {
       "type": "component",
@@ -67,7 +67,7 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-reviews",
-      "required": true,
+      "required": false,
       "min": 4
     },
     "sectionFaq": {

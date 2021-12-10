@@ -12,7 +12,7 @@
     "numberInstallments": {
       "type": "integer"
     },
-    "priceInstallments": {
+    "priceInstallment": {
       "type": "integer",
       "required": true
     },

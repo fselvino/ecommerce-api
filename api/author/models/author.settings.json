@@ -19,7 +19,7 @@
         "images"
       ],
       "plugin": "upload",
-      "required": true,
+      "required": false,
       "pluginOptions": {}
     },
     "name": {
@@ -34,7 +34,7 @@
       "type": "component",
       "repeatable": true,
       "component": "page.sociallinks",
-      "required": true
+      "required": false
     },
     "description": {
       "type": "text",

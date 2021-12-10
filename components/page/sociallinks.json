@@ -2,7 +2,8 @@
   "collectionName": "components_page_sociallinks",
   "info": {
     "name": "sociallinks",
-    "icon": "network-wired"
+    "icon": "network-wired",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -16,7 +17,7 @@
         "Facebook"
       ],
       "default": "Twitter",
-      "required": true
+      "required": false
     },
     "url": {
       "type": "string",
