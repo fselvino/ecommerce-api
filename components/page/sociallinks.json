@@ -1,7 +1,7 @@
 {
-  "collectionName": "components_page_sociallinks",
+  "collectionName": "components_page_social_links",
   "info": {
-    "name": "sociallinks",
+    "name": "socialLinks",
     "icon": "network-wired",
     "description": ""
   },
@@ -12,11 +12,10 @@
       "enum": [
         "Github",
         "Twitter",
-        "Dribble",
+        "Dribbble",
         "LinkedIn",
         "Facebook"
       ],
-      "default": "Twitter",
       "required": false
     },
     "url": {
